@@ -1,0 +1,10 @@
+#header {
+    background-color: lightgreen;
+    height: 240px;
+}
+img {
+    margin-left: 50px;
+    margin-top: -50px;
+    height: 240px;
+    border: 2px solid darkolivegreen;
+}
