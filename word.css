@@ -1,10 +1,50 @@
 #header {
-    background-color: lightgreen;
-    height: 240px;
+    background-color: #9EEEB0;
+    height: 60px;
 }
 img {
     margin-left: 50px;
     margin-top: -50px;
     height: 240px;
     border: 2px solid darkolivegreen;
+}
+#section {
+    background-color: #fde1ab;
+    height: 600px;
+    margin-top: -200px;
+}
+h1.text {
+    margin-left: 300px;
+}
+p.text  {
+    margin-top: -10px;
+    margin-left: 300px;
+}
+h2.text {
+    margin-top: 40px;
+    margin-left: 50px;
+}
+p.text2 {
+    margin-top: -15px;
+    margin-left: 50px;
+}
+h3.text {
+    margin-top: -15px;
+    margin-left: 50px;
+}
+p.text3 {
+    margin-top: -20px;
+    margin-left: 50px;
+}
+p.text4 {
+    margin-top: -20px;
+    margin-left: 50px;
+}
+h4.text {
+    margin-top: -15px;
+    margin-left: 50px;
+}
+p.text5 {
+    margin-top: -20px;
+    margin-left: 50px;
 }
