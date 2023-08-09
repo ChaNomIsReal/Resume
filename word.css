@@ -48,3 +48,11 @@ p.text5 {
     margin-top: -20px;
     margin-left: 50px;
 }
+#footer {
+    height: 40px;
+    background-color: black;
+    margin-top: -50px;
+}
+p.text6 {
+    margin-left: 50px;
+}
